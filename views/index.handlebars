@@ -1,0 +1,70 @@
+<!-- Start jumbotron -->
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Eat Da Burger!</h1>
+    <h2 class="lead">Add a name of burger you'd like to eat and then click "Submit." Or just eat what is already listed</h2>
+   <img src="https://images.designtrends.com/wp-content/uploads/2016/08/16172338/Cheeseburger-Vector.jpg" class="img-fluid" alt="burger clipart"/>
+<form class="form-inline" action="/burgers" method="POST">
+  <div class="form-group mx-sm-3 mb-2">
+    <input class="form-control" type="text" id="name" name="burger_name" placeholder="Burger Name" required/>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+    <!-- End of form -->
+  </div>
+</div>
+<!-- End jumbotron -->
+
+<!-- burger list  -->
+<div class="container">
+  <div class="row">
+
+<!-- burger-ready list -->
+<div class="col">
+<div class="card">
+  <div class="card-header">
+   <h4>Ready to Devour Burger</h4>
+   <p>Click the fork/knife button to devour the burger.</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    {{#each burgers}}
+    {{#unless this.devoured}}
+    <li class="list-group-item">{{this.burger_name}}
+    
+    <button type="submit" class="btn btn-success devourThis" data-id="{{this.id}}"><i class="fa fa-cutlery" aria-hidden="true" ></i>
+</button>
+    </form>    
+    </li>
+{{/unless}}
+{{/each}}
+  </ul>
+</div>    
+</div>
+
+  
+<!-- Start devoured burger side -->
+    <div class="col">
+    <div class="card">
+  <div class="card-header">
+   <h4>Devoured Burgers</h4>
+   <p>Click the trash icon to delete devoured burger.</p>
+  </div>
+
+  <ul class="list-group list-group-flush">
+            {{#each burgers}}
+          {{#if this.devoured}}
+    <li class="list-group-item">{{this.burger_name}}
+    <button type="button" class="delete-burger btn btn-danger" data-id="{{this.id}}">
+    <i class="fa fa-trash" aria-hidden="true"></i>
+</button>
+    </li>
+          {{/if}}
+        {{/each}}
+  </ul>
+</div> 
+    </div>
+  </div>
+
+  
+
