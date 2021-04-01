@@ -1,7 +1,7 @@
 {
   "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "A burger logger created with MySQL, Node, Express and Handlebars",
+  "description": "A burger app created with MySQL, Node, Express and Handlebars",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/attack-theoRy/eat-da-burger.git"
+    "url": "git+https://github.com/elphinhote/eat-da-burger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/attack-theoRy/eat-da-burger/issues"
+    "url": "https://github.com/elphinhote/eat-da-burger/issues"
   },
-  "homepage": "https://github.com/attack-theoRy/eat-da-burger#readme",
+  "homepage": "https://github.com/elphinhote/eat-da-burger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^5.2.1",
-    "heroku": "^7.51.0",
+    "express-handlebars": "^5.2.0",
     "mysql": "^2.18.1"
   },
   "devDependencies": {}
