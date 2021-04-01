@@ -22,12 +22,44 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 Your app will store every burger in a database, whether devoured or not.
 
 ## Installation Instructions
-Clone or download the repository, and install node.js, npm install with dependencies.
+Clone or download the repository, and npm install with dependencies.
 
 ## Usage
- The application is invoked by using the following
-"node server.js" command.
-Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku link below. 
+ The application has a directory structure, 
+ 
+ ├── config
+│   ├── connection.js
+│   └── orm.js
+│ 
+├── controllers
+│   └── burgers_controller.js
+│
+├── db
+│   ├── schema.sql
+│   └── seeds.sql
+│
+├── models
+│   └── burger.js
+│ 
+├── node_modules
+│ 
+├── package.json
+│
+├── public
+│   └── assets
+│       ├── css
+│       │   └── burger_style.css
+│       └── img
+│           └── burger.png
+│   
+│
+├── server.js
+│
+└── views
+    ├── index.handlebars
+    └── layouts
+        └── main.handlebars
+
 
 
 ![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
@@ -36,7 +68,7 @@ Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku li
 ## Technologies Used
 
 * Express
-* Express Handlebars
+* Handlebars
 * MySql
 * Heroku
 * Node.js
