@@ -64,7 +64,13 @@ Clone or download the repository, and npm install with dependencies.
 
 ![image](https://user-images.githubusercontent.com/65749636/113367321-88464b00-9310-11eb-89a5-8c96f184d0e9.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/65749636/113367047-dad33780-930f-11eb-94af-b5e45ac8667a.png)
+
+
+![image](https://user-images.githubusercontent.com/65749636/113367386-b6c42600-9310-11eb-90c8-e58248ae4ea8.png)
+
 
 
 ## Technologies Used
