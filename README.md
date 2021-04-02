@@ -62,6 +62,8 @@ Clone or download the repository, and npm install with dependencies.
 
 ##Use Add-on JawsDB-MySql from Heroku  
 
+![image](https://user-images.githubusercontent.com/65749636/113367321-88464b00-9310-11eb-89a5-8c96f184d0e9.png)
+
 ![image](https://user-images.githubusercontent.com/65749636/113367047-dad33780-930f-11eb-94af-b5e45ac8667a.png)
 
 
