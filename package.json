@@ -2,6 +2,7 @@
   "name": "eat-da-burger",
   "version": "1.0.0",
   "description": "A burger app with JawsDB, MySQL, Express and Express Handlebars",
+<<<<<<< HEAD
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -9,6 +10,9 @@
     "mysql": "^2.18.1"
   },
   "devDependencies": {},
+=======
+  "main": "index.js",
+>>>>>>> 25450c6bdbe7306f8f2c84f854c42dd80011335f
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
