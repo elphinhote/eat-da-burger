@@ -70,6 +70,7 @@ Clone or download the repository, and npm install with dependencies.
 * Express
 * Handlebars
 * MySql
+* JawsDB MySql
 * Heroku
 * Node.js
 
