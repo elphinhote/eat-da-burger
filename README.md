@@ -25,9 +25,9 @@ Your app will store every burger in a database, whether devoured or not.
 Npm install express, express handlebars, MySql, and create database with JawsDB.  Use Heroku to deploy.
 
 ## Usage
- The application has a directory structure with JawsDB instructions in MySql, 
+ The application has a directory structure.  In Heroku use JawsDB for MySql.
  
-* ├── config
+* ├── conf
 * │   ├── connection.js
 * │   └── orm.js
 * │ 
