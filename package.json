@@ -1,7 +1,7 @@
 {
   "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "A burger app created with MySQL, Node, Express and Handlebars",
+  "description": "A burger app with JawsDB, MySQL, Express and Express Handlebars",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
