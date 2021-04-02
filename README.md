@@ -25,7 +25,7 @@ Your app will store every burger in a database, whether devoured or not.
 Clone or download the repository, and npm install with dependencies.
 
 ## Usage
- The application has a directory structure, 
+ The application has a directory structure with JawsDB instructions in MySql, 
  
 * ├── config
 * │   ├── connection.js
