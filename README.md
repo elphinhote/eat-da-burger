@@ -60,9 +60,9 @@ Clone or download the repository, and npm install with dependencies.
 *   └── layouts
 *       └── main.handlebars
 
+##Use Add-on JawsDB-MySql from Heroku  
 
-
-![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
+![image](https://user-images.githubusercontent.com/65749636/113367047-dad33780-930f-11eb-94af-b5e45ac8667a.png)
 
 
 ## Technologies Used
