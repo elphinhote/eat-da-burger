@@ -22,12 +22,12 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 Your app will store every burger in a database, whether devoured or not.
 
 ## Installation Instructions
-Clone or download the repository, and npm install with dependencies.
+Npm install express, express handlebars, MySql, and create database with JawsDB.  Use Heroku to deploy.
 
 ## Usage
- The application has a directory structure with JawsDB instructions in MySql, 
+ The application has a directory structure.  In Heroku use JawsDB for MySql.
  
-* ├── config
+* ├── conf
 * │   ├── connection.js
 * │   └── orm.js
 * │ 
@@ -66,10 +66,10 @@ Clone or download the repository, and npm install with dependencies.
 
 
 
-![image](https://user-images.githubusercontent.com/65749636/113367047-dad33780-930f-11eb-94af-b5e45ac8667a.png)
+![image](https://user-images.githubusercontent.com/65749636/113369685-c0508c80-9316-11eb-8930-eeb4eca43541.png)
 
 
-![image](https://user-images.githubusercontent.com/65749636/113367386-b6c42600-9310-11eb-90c8-e58248ae4ea8.png)
+![image](https://user-images.githubusercontent.com/65749636/113369081-423fb600-9315-11eb-8131-13b7de39e29e.png)
 
 
 
