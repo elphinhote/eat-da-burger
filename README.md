@@ -71,6 +71,8 @@ Npm install express, express handlebars, MySql, and create database with JawsDB.
 
 ![image](https://user-images.githubusercontent.com/65749636/113369081-423fb600-9315-11eb-8131-13b7de39e29e.png)
 
+![image](https://user-images.githubusercontent.com/65749636/113491472-db8dda00-9485-11eb-92cc-ae376a0f126c.png)
+
 
 
 ## Technologies Used
