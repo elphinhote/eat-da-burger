@@ -60,7 +60,7 @@ Npm install express, express handlebars, MySql, and create database with JawsDB.
 *   └── layouts
 *       └── main.handlebars
 
-##Use Add-on JawsDB-MySql from Heroku  
+##Use Add-on from Heroku JawsDB-MySql   
 
 ![image](https://user-images.githubusercontent.com/65749636/113367321-88464b00-9310-11eb-89a5-8c96f184d0e9.png)
 
