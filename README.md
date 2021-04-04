@@ -1,6 +1,6 @@
 # eat-da-burger
 
-
+Eat-Da-Burger a restaurant app that lets users input the names of burgers they'd like to eat.
 
 ## Table of Contents
 * [Description](#description)
@@ -12,71 +12,29 @@
 * [Questions](#questions)
 
 ## Description
-Eat-Da-Burger a restaurant app that lets users input the names of burgers they'd like to eat.
-Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
-Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
-Your app will store every burger in a database, whether devoured or not.
-
-
-
+The Budget Tracker application allows for offline access and functionality.
+The purpose and function is to show how to add expenses and deposits to the budget tracker with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ## Installation Instructions
-Npm install express, express handlebars, MySql, and create database with JawsDB.  Use Heroku to deploy.
+Clone or download the repository, and install node.js, npm install with dependencies.
 
 ## Usage
- The application has a directory structure.  In Heroku use JawsDB for MySql.
- 
-* ├── conf
-* │   ├── connection.js
-* │   └── orm.js
-* │ 
-* ├── controllers
-* │   └── burgers_controller.js
-* │
-* ├── db
-* │   ├── schema.sql
-* │   └── seeds.sql
-* │
-* ├── models
-* │   └── burger.js
-* │ 
-* ├── node_modules
-* │ 
-* ├── package.json
-* │
-* ├── public
-* │   └── assets
-* │       ├── css
-* │       │   └── burger_style.css
-* │       └── img
-* │           └── burger.png
-* │   
-* │
-* ├── server.js
-* │
-* └── views
-*    ├── index.handlebars
-*   └── layouts
-*       └── main.handlebars
-
-## Use Add-on from Heroku for JawsDB-MySql   
-
-![image](https://user-images.githubusercontent.com/65749636/113367321-88464b00-9310-11eb-89a5-8c96f184d0e9.png)
+ The application is invoked by using the following
+"node server.js" command.
+Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku link below. 
 
 
-![image](https://user-images.githubusercontent.com/65749636/113369081-423fb600-9315-11eb-8131-13b7de39e29e.png)
-
-![image](https://user-images.githubusercontent.com/65749636/113491472-db8dda00-9485-11eb-92cc-ae376a0f126c.png)
-
+![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
 
 
 ## Technologies Used
 
 * Express
-* Handlebars
-* MySql
-* JawsDB MySql
-* Heroku
+* Mongoose
+* Mongodb
+* Compression
+* Morgan
+* Lite-Server
 * Node.js
 
 ## License
@@ -92,7 +50,7 @@ Eva Wang
 Contact me:
 Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
-Github: https://github.com/elphinhote/eat-da-burger
+Github: https://github.com/elphinhote/Budget-TrackApp/
 
-Deployed App: https://evening-eyrie-60267.herokuapp.com/ (This app did not deploy.  I ran out of time to tweak, however I'll continue as a future endeavor until deployed. )
+Deployed App: https://budtracking.herokuapp.com/
 
