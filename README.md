@@ -96,5 +96,5 @@ Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 Github: https://github.com/elphinhote/eat-da-burger
 
-Deployed App:  https://evening-eyrie-60267.herokuapp.com/
+Deployed App:  https://evening-dawn-42448.herokuapp.com/burgers
 
