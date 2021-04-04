@@ -17,8 +17,6 @@ Whenever a user submits a burger's name, your app will display the burger on the
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 Your app will store every burger in a database, whether devoured or not.
 
-![image](https://user-images.githubusercontent.com/65749636/113518103-0d13ad80-9539-11eb-886d-a146e6b1bec5.png)
-
 
 
 
@@ -96,5 +94,5 @@ Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 Github: https://github.com/elphinhote/eat-da-burger
 
-Deployed App:  https://evening-dawn-42448.herokuapp.com/burgers
+Deployed App: https://evening-eyrie-60267.herokuapp.com/
 
