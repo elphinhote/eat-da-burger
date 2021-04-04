@@ -11,7 +11,7 @@ var burger = {
       });
     },
   
- // put burg into database
+ // put burger into database
     insertOne: (cols, vals, cb) => {
       orm.insertOne('burgers', cols, vals, (res) => {
         cb(res);
