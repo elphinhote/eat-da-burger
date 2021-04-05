@@ -1,6 +1,6 @@
 # eat-da-burger
 
-Eat-Da-Burger a restaurant app that lets users input the names of burgers they'd like to eat.
+Eat-Da-Burger is an app that users input their favorite burgers. 
 
 ## Table of Contents
 * [Description](#description)
@@ -18,9 +18,8 @@ Eat-da-Burger is an app that
 Clone or download the repository, and install node.js, npm install with dependencies.
 
 ## Usage
- The application is invoked by using the following
-"node server.js" command.
-Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku link below. 
+ The application's directory is as follows.
+ 
 
 .
 * ├── config
