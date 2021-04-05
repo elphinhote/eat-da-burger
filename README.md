@@ -60,7 +60,7 @@ Install npm install with dependencies.  Use JAWSDB and MYSQL deploy with Heroku.
 *  └── layouts
 *       └── main.handlebars
 
-## Add-on from Heroku creates username, password, and database for Use with JAWSDB and MYSQL.
+## Add-on from Heroku creates username, password, and database for use with JAWSDB and MYSQL.
 
 ![image](https://user-images.githubusercontent.com/65749636/113531429-9d73e180-957d-11eb-92c0-1194afeeaa90.png)
 
@@ -72,7 +72,6 @@ Install npm install with dependencies.  Use JAWSDB and MYSQL deploy with Heroku.
 
 
 ## Technologies Used
-"
 * Express
 * Express-handlebars
 * MySql
@@ -95,4 +94,4 @@ Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 Github: https://github.com/elphinhote/eat-da-burger/
 
-Deployed App: https://evening-eyrie-60267.herokuapp.com/ (App did not deployed, need to correct errors to deploy)
+Deployed App: https://evening-eyrie-60267.herokuapp.com/ (App did not deploy, need to correct errors to deploy)
