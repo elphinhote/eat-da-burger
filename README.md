@@ -22,7 +22,42 @@ Clone or download the repository, and install node.js, npm install with dependen
 "node server.js" command.
 Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku link below. 
 
+.
+*├── config
+*│   ├── connection.js
+*│   └── orm.js
+*│ 
+*├── controllers
+*│   └── burgers_controller.js
+*│
+*├── db
+*│   ├── schema.sql
+*│   └── seeds.sql
+*│
+*├── models
+*│   └── burger.js
+*│ 
+*├── node_modules
+*│ 
+*├── package.json
+*│
+*├── public
+*│   └── assets
+*│       ├── css
+*│       │   └── burger_style.css
+*│       └── img
+*│           └── burger.png
+*│   
+*│
+*├── server.js
+*│
+*└── views
+*   ├── index.handlebars
+*  └── layouts
+*       └── main.handlebars
 
+
+![image](https://user-images.githubusercontent.com/65749636/113529844-6e5b7100-9579-11eb-9dd5-37e07d793404.png)
 
 
 ## Technologies Used
