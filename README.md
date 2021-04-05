@@ -56,7 +56,9 @@ Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku li
 *  └── layouts
 *       └── main.handlebars
 
-## JAWSDB and MYSQL with Heroku
+## Use JAWSDB and MYSQL with Heroku
+
+![image](https://user-images.githubusercontent.com/65749636/113530542-263d4e00-957b-11eb-831f-e47479332ec8.png)
 
 ![image](https://user-images.githubusercontent.com/65749636/113529844-6e5b7100-9579-11eb-9dd5-37e07d793404.png)
 
