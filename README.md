@@ -1,6 +1,6 @@
 # eat-da-burger
 
-Eat-Da-Burger is an app that users input their favorite burgers. 
+Eat-Da-Burger is an app users input with their favorite burgers. 
 
 ## Table of Contents
 * [Description](#description)
