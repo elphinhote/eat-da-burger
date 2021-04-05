@@ -12,8 +12,7 @@ Eat-Da-Burger a restaurant app that lets users input the names of burgers they'd
 * [Questions](#questions)
 
 ## Description
-The Budget Tracker application allows for offline access and functionality.
-The purpose and function is to show how to add expenses and deposits to the budget tracker with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+Eat-da-Burger is an app that 
 
 ## Installation Instructions
 Clone or download the repository, and install node.js, npm install with dependencies.
@@ -24,7 +23,6 @@ Clone or download the repository, and install node.js, npm install with dependen
 Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku link below. 
 
 
-![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
 
 
 ## Technologies Used
@@ -50,7 +48,6 @@ Eva Wang
 Contact me:
 Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
-Github: https://github.com/elphinhote/Budget-TrackApp/
+Github: https://github.com/elphinhote/eat-da-burger/
 
-Deployed App: https://budtracking.herokuapp.com/
-
+Deployed App: 
