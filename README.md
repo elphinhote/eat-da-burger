@@ -12,7 +12,7 @@ Eat-Da-Burger is an app that users input their favorite burgers.
 * [Questions](#questions)
 
 ## Description
-]Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 Your app will store every burger in a database, whether devoured or not.
@@ -20,7 +20,7 @@ Your app will store every burger in a database, whether devoured or not.
 ![image](https://user-images.githubusercontent.com/65749636/113531136-c9db2e00-957c-11eb-9812-0528a386a939.png)
 
 ## Installation Instructions
-Clone or download the repository, and install node.js, npm install with dependencies.
+Install npm install with dependencies.  Use JAWSDB and MYSQL deploy with Heroku.
 
 ## Usage
  The application's directory is as follows.
