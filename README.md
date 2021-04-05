@@ -60,7 +60,9 @@ Install npm install with dependencies.  Use JAWSDB and MYSQL deploy with Heroku.
 *  └── layouts
 *       └── main.handlebars
 
-## Use JAWSDB and MYSQL with Heroku
+## Obtain an add-on from Heroku. Use JAWSDB and MYSQL with Heroku
+
+![image](https://user-images.githubusercontent.com/65749636/113531429-9d73e180-957d-11eb-92c0-1194afeeaa90.png)
 
 ![image](https://user-images.githubusercontent.com/65749636/113531379-7a493200-957d-11eb-86db-0a13d022379a.png)
 
@@ -74,7 +76,7 @@ Install npm install with dependencies.  Use JAWSDB and MYSQL deploy with Heroku.
 * Express
 * Express-handlebars
 * MySql
-* Jawsdb
+* JaAWSDB
 * Heroku
 
 
