@@ -17,7 +17,7 @@ Whenever a user submits a burger's name, your app will display the burger on the
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 Your app will store every burger in a database, whether devoured or not.
 
-![image](https://user-images.githubusercontent.com/65749636/113530976-5afdd500-957c-11eb-81c4-efe1d65af076.png)
+![image](https://user-images.githubusercontent.com/65749636/113531136-c9db2e00-957c-11eb-9812-0528a386a939.png)
 
 ## Installation Instructions
 Clone or download the repository, and install node.js, npm install with dependencies.
