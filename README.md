@@ -64,14 +64,13 @@ Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku li
 
 
 ## Technologies Used
-
+"
 * Express
-* Mongoose
-* Mongodb
-* Compression
-* Morgan
-* Lite-Server
-* Node.js
+* Express-handlebars
+* MySql
+* Jawsdb
+* Heroku
+
 
 ## License
 ISC
